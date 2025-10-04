@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aptitude_Test_System/static/css/main.dc1dc9e8.css",
+    "main.js": "/Aptitude_Test_System/static/js/main.1c84ff3f.js",
+    "static/js/453.670e15c7.chunk.js": "/Aptitude_Test_System/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Aptitude_Test_System/index.html",
+    "main.dc1dc9e8.css.map": "/Aptitude_Test_System/static/css/main.dc1dc9e8.css.map",
+    "main.1c84ff3f.js.map": "/Aptitude_Test_System/static/js/main.1c84ff3f.js.map",
+    "453.670e15c7.chunk.js.map": "/Aptitude_Test_System/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1dc9e8.css",
+    "static/js/main.1c84ff3f.js"
+  ]
+}
